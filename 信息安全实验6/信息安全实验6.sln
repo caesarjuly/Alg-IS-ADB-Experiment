@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "信息安全实验6", "信息安全实验6\信息安全实验6.vcxproj", "{DC161093-E2E7-48BA-BE19-E89F3E422EF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC161093-E2E7-48BA-BE19-E89F3E422EF5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DC161093-E2E7-48BA-BE19-E89F3E422EF5}.Debug|Win32.Build.0 = Debug|Win32
+		{DC161093-E2E7-48BA-BE19-E89F3E422EF5}.Release|Win32.ActiveCfg = Release|Win32
+		{DC161093-E2E7-48BA-BE19-E89F3E422EF5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
